@@ -2,3 +2,4 @@ streamlit
 nltk
 sklearn
 scikit-learn
+nltk.download()
